@@ -56,11 +56,13 @@ body {
   background-color: #ffffff;
   width: 210px;
   height: 50px;
+  border: 1px solid #141414;
   border-radius: 75px;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
   cursor: pointer;
+  color: #141414;
 }
 .button__nav:hover {
   background-color: #4e4e4e;
